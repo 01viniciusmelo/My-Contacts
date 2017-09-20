@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+
+<contact>
+	<first_name>Tyler</first_name>
+	<last_name>Harriott</last_name>
+	<phone_number>201-990-4576</phone_number>
+	<notes>my notes</notes>
+</contact>
+
+<contact>
+	<first_name>Louis</first_name>
+	<last_name>Johnson</last_name>
+	<phone_number>672-522-9922</phone_number>
+	<notes>notes</notes>
+</contact>
+
+<contact>
+	<first_name>Peter</first_name>
+	<last_name>Robinson</last_name>
+	<phone_number>973-013-9066</phone_number>
+	<notes>Some notes</notes>
+</contact>
+
+<contact>
+	<first_name>John</first_name>
+	<last_name>Smith</last_name>
+	<phone_number>201-408-7902</phone_number>
+	<notes>A few notes.</notes>
+</contact>
+
+<contact>
+	<first_name>Jason</first_name>
+	<last_name>Lewis</last_name>
+	<phone_number>301-226-5438</phone_number>
+	<notes>Hello World</notes>
+</contact>
+
+</contacts>
